@@ -1,2 +1,2 @@
 #!/bin/bash
-cat ~/iacta Line 3
+cat /iacta Line 3
